@@ -1,2 +1,2 @@
 # Python
-Este e o meu repositório para lógica de programação
+Veja meus códigos em python
